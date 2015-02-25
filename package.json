@@ -1,0 +1,17 @@
+{
+  "name": "spamalot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "coffee spam.coffee",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "^1.9.1",
+    "lodash": "^3.3.1",
+    "meshblu": "^1.15.0"
+  }
+}
